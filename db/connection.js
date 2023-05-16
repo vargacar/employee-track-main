@@ -4,7 +4,7 @@ const connection = mysql.createConnection({
 host: 'localhost',
 user: 'root',
 database: 'business',
-password: 'Metamorphosis2023*',
+password: 'your password',
 });
 
 connection.connect(function (err) {

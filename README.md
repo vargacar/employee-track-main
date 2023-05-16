@@ -20,3 +20,7 @@ Contributing
 
 Contributors should read the installation section.
 
+https://github.com/vargacar/employee-track-main
+https://vargacar.github.io/employee-track-main/
+https://drive.google.com/file/d/1vsdoQDJE7cu5aq0XfVdrcHJnbeLdrhuT/view
+
